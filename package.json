@@ -58,7 +58,7 @@
     "verb-collections": "^0.1.5",
     "verb-defaults": "^0.3.0",
     "verb-repo-data": "^0.1.15",
-    "verb-repo-helpers": "^0.2.4",
+    "verb-repo-helpers": "github:stefanwalther/verb-repo-helpers#npm-fix",
     "verb-toc": "^0.2.9"
   },
   "devDependencies": {
